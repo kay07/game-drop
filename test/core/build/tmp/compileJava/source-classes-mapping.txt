@@ -1,0 +1,4 @@
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/badlogic/drop/Drop.java
+ com.badlogic.drop.Drop
